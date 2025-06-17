@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us - Talon IT & Forex Solutions</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Contact Us</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="forex.html">Forex Services</a></li>
+        <li><a href="wifi.html">Wi-Fi Installations</a></li>
+        <li><a href="schoolproject.html">School Wi-Fi Project</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html" class="active">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Get in Touch</h2>
+      <p>If you're ready to work with us or have any questions about our services, we're here to help. Reach out using the details below:</p>
+
+      <ul>
+        <li><strong>Email:</strong> <a href="mailto:talonitsolutions@gmail.com">talonitsolutions@gmail.com</a></li>
+        <li><strong>Phone:</strong> <a href="tel:+27726522465">072 6522 465</a></li>
+        <li><strong>Instagram:</strong> <a href="https://www.instagram.com/talonfx_" target="_blank">@talonfx_</a></li>
+        <li><strong>Telegram:</strong> @talonfx</li>
+      </ul>
+
+      <h3>Business Hours</h3>
+      <p>Monday – Saturday: 08:00 – 18:00<br>Sunday: Closed</p>
+
+      <h3>Location</h3>
+      <p>Mamelodi, Pretoria, South Africa</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Talon IT & Forex Solutions. All rights reserved.</p>
+  </footer>
+</body>
+</html>
